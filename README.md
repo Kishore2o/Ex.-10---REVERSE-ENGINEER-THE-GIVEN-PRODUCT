@@ -39,9 +39,10 @@
 
 ![image](https://github.com/Kishore2o/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118679883/30c24d36-8cf6-48a1-88ea-d67bcb06f763)
 
+![image](https://github.com/Kishore2o/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118679883/539ac664-db47-4aec-98f1-4a3d34667e38)
 
-### Name: S,Kishore
+### Name: S.Kishore
 ### Register Number: 212222240050
 
 ## RESULT:
-###   Thus the given product is reverse engineered and prototyped using 3D Printer.
+Thus the given product is reverse engineered and prototyped using 3D Printer.
